@@ -76,6 +76,5 @@ for url in linkl:
   shutil.move(src, des)
 
   os.rename('/Users/apple/LINK/Profile.pdf', '/Users/apple/LINK/'+names[i]+'.pdf')
-  i = i + 1
 
 cf.close()
